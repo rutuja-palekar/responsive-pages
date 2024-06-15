@@ -7,11 +7,11 @@
 - Visual Studio Code (VS Code)  
   
   
-## Steps to Run the Form Locally    
+## Steps to Run the Project Locally    
   
 1. **Download the Project Files**  
   
-- Open the following link in your web browser: [Responsive Pages](https://github.com/rutuja-palekar/logicloop-assignment)  
+- Open the following link in your web browser: [Responsive Pages](https://github.com/rutuja-palekar/responsive-pages)  
 - Click on the "Code" button and select "Download ZIP" from the dropdown menu.  
 - The ZIP file will be downloaded to your computer, typically in the Downloads folder.  
   
@@ -40,11 +40,12 @@
   
 - Once VS Code is restarted, open the index.html file from the project explorer.  
 - Click on the "Go Live" button at the bottom of the VS Code window.  
-- Your default web browser will open, displaying the live version of the form.  
+- Your default web browser will open, displaying the live version of the project.  
   
   
 ## Project Structure  
-- index.html: HTML structure of the form.  
-- index.css: CSS styles for the form.  
+- html folder: HTML files of the project.  
+- css folder: CSS files of the project.  
+- images folder: Image files of the project.  
   
   
